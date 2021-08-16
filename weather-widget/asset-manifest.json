@@ -1,0 +1,9 @@
+{
+  "main.css": "/static/css/weather-widget.css",
+  "main.js": "/static/js/weather-widget.js",
+  "main.js.map": "/static/js/weather-widget.js.map",
+  "static/css/weather-widget.css.map": "/static/css/weather-widget.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.2af3fa12353c994f29429c98e38428e3.js": "/precache-manifest.2af3fa12353c994f29429c98e38428e3.js",
+  "service-worker.js": "/service-worker.js"
+}
